@@ -4,7 +4,7 @@
 from os import getenv
 
 
-API_KEY = "Paste Your Key Here"
+API_KEY = "FIHJZT"
 
 if not API_KEY or API_KEY == "Paste Your Key Here" or API_KEY == "":
     API_KEY = getenv("API_KEY")
